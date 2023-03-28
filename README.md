@@ -7,9 +7,13 @@ For this project, you’ll design the tables to hold the data from the CSV files
 Inside of this Repository are the following files:
 
 Tables.sql - this is the sql file that breaks all the tables down into columns with their respective keys.
+
 Queries.sql - this is the sql file that answeres the questions from the module.
+
 Data Modeling - SQL Challenge.png - This is an image of the Entity Relationship Diagram
+
 Readme.md - The readme file that you are currently viewing.
 
 Thanks!
+
 Michael Goff
